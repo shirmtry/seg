@@ -3,8 +3,6 @@
 > **Ứng dụng phân tích giọng nói tiếng Anh & Tiếng Việt**  
 > Nhận dạng giọng nói → Phát hiện ngôn ngữ → Dịch thuật → Phân tích bài nói
 
----
-
 ## 👤 TÁC GIẢ
 
 | | |
@@ -140,4 +138,3 @@ Xem file [LICENSE](./LICENSE) để biết chi tiết.
   <b>© 2025 HUYTKING — Zalo: 0396241674</b><br>
   <i>Made with ❤️ in Vietnam</i>
 </p>
-```
