@@ -10,9 +10,9 @@
 | | |
 |---|---|
 | **Tác giả** | **HUYTKING** |
-| **Zalo** | **0767 936 239** |
+| **Zalo** | **0396241674** |
 | **GitHub** | [@shirmtry](https://github.com/shirmtry) |
-| **Email** | *(cập nhật sau)* |
+| **Email** | *dintanhuy547@gmail.com* |
 | **Năm** | 2026 |
 
 ---
