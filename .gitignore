@@ -1,0 +1,74 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ===== Virtual Environment (QUAN TRỌNG) =====
+venv/
+venv*/
+env/
+env*/
+.venv/
+.venv*/
+ENV/
+ENV*/
+
+# ===== Build & Dist =====
+build/
+dist/
+*.spec
+*.pkg
+*.exe
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+
+# ===== Model & Cache =====
+.cache/
+models/
+*.pt
+*.bin
+*.safetensors
+*.onnx
+*.h5
+*.ckpt
+*.pth
+
+# ===== Audio & Debug =====
+debug/
+*.webm
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.flac
+
+# ===== FFmpeg binary =====
+ffmpeg
+ffmpeg.exe
+ffprobe
+ffprobe.exe
+ffplay
+ffplay.exe
+
+# ===== Log & Temp =====
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# ===== IDE =====
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===== Environment =====
+.env
+.env.local
+
+# ===== Node (nếu có) =====
+node_modules/
