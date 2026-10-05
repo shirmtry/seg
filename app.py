@@ -1,3 +1,20 @@
+# ============================================================================
+#                    SEG — SPEECH ANALYSIS APP
+#                    BẢN QUYỀN THUỘC VỀ HUYTKING
+# ============================================================================
+#
+#   © 2026 HUYTKING. All rights reserved.
+#
+#   Tác giả  : HUYTKING
+#   Zalo     : 0396241674
+#   GitHub   : https://github.com/shirmtry
+#
+#   ⚠️ MỌI HÀNH VI SAO CHÉP, CHỈNH SỬA, PHÂN PHỐI
+#      MÀ KHÔNG CÓ SỰ ĐỒNG Ý CỦA TÁC GIẢ ĐỀU BỊ NGHIÊM CẤM.
+#
+#   Liên hệ cấp phép: Zalo 0396241674
+# ============================================================================
+
 import os
 import sys
 import subprocess
